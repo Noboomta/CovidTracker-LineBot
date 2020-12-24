@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "covidtrackerlinebot",
+  "private_key_id": "d17c772c0752a13be2a258d8870b754d72c34be4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCoudgcYKeT7aGT\njloOA0CC1QzYaXdMMf4XEaEFL5g/rKM2NfgSyVFgCpwUKQdmixIbuTagqKHnO3NV\neIlk1LWVOhrWryERnmiP7gTPvgOIenxGT9RUNB91qwd+9Oy3Lo5xsW/lOG0pd+hT\ny4HlwR7PVgRpsG3GrSgN6f1M1BUR4QwliOXH97NxbDIMtbqW0lxm7JzJfIES15TR\nPjp2IyvibzJ8oT45VG6x0lCLTbnpyEHaa6VudMNX0BC1sclBXDkvzoObEwUFpr45\ncncCsmVKHUHWuFT0gM2EZ52VwzTo25a0mmd6S8c6zB8bp9AhA0FYduhG8IEYvrsh\nQPxwQxSNAgMBAAECggEAMl8lRzeN4ApyEfjOJt/OqyCK0LMP1BYauu1e6orug5f5\nM+6BzK4AltEkDpq/JFyBf/hX+DfP+hYUFSDCt/EO8umhaJVpJHbr1YhkNFcQe/bB\nUkZz592VxM3WE49wejGygfvMoZyqblZnbFjVw29X0ONnttveshEw45KHNiAc2DSg\nVANK7FbahnXzNcDDjzAJ99Q27NCLEqo3ZKP4ZHB4QmvxYM8GOHT0TriKF3Z6r3ii\nf5O4h/+u/ZjpBqTlvLe+3vzmlR1WX58tVT5T0w7Yo1KPK3hK8S88AM6d1h7ZczvA\nNZuPyaiZQNFiM+nBslpLO4jEd9DAwBLjGjr+tIYIWwKBgQDnxnrE1BoLiwqQTcur\nU8UFyL7fUVnv+AaU70Jq0pIJO/TN6kKLG9RzNWizraMYFiPod2vFBp8UkJ9htLQX\npY88OA+eRn82j84iOezv7uE2+f39QDzIN0xXufStz4M7gWFkKwGOuQ+GaYdDbM3L\nfhWRzT6Uga+MYuPoPn0ftSWerwKBgQC6XGC8rFL1Pk7SKv2XH3fa8NECOFmFrEUx\nihQvxtSvz6vVlxuSDTOCCswjwF61dCl4AfUPn7HzI7/emorSdi8IqydH9ZSGuff5\nEUZbIP9M44AoLMuHRtX9RW0jbzsKYUQnVSo20joMteNtC5LgqOvR8dBNAuxpP2AD\nPLR52ltvgwKBgQDCEnPiNCfK2pXx1vJfdzlWao1IuPmx8eCw/NaEU+VsTgPiF/G4\nQYlXHrWZHh+en4tZsAVRaQXzVlXenkzeMAcLyXVqdmU27psQFajMDx4Nxq5iTFOY\n4pTOMCstDsE4JlHCajBXraXOSra0QnrflafB+jYYa67uwi9L3GcxEaF6iQKBgQCs\n3L9Ggzm4DgGi5Qmwwhm01iepPYecfHz6RLAQ2QezxJgJWU7TnLcoaseMagXvnj5Q\n+M/NnD294G07GHKoYcOi8M9Q6jTI+3tOZn2yTdtCAMyBd3uakVQwx9NCSQykxjAn\no9GyZDJAU/8OyOuGxGlppjmnFY0g2w4+MnLdjHO/7QKBgQDg4zoDNmiOzBxHSOnp\nAorLVNbaeGqoULbtmwpCbR96nOZiQxix9EJknyrVGt0w0Sv0HhYDNY8iLR6w49kA\nb/JwESTO05uhAPgk/eI3SGXbwkXLQQ8rheyj1+0W2skS7WFV922j6MZx2uVWpGIU\nKwMyBXCkhc+De0dNNuWKAgI9FA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheet-to-web@covidtrackerlinebot.iam.gserviceaccount.com",
+  "client_id": "114356809388063199196",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheet-to-web%40covidtrackerlinebot.iam.gserviceaccount.com"
+}
